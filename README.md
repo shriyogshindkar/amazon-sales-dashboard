@@ -24,15 +24,5 @@ This project is a visual analytics dashboard built using **Power BI** that analy
 
 ---
 
-## 📷 Dashboard Screenshots
 
-### 🖼️ Overview Page
-![Amazon Dashboard Overview](amazon_pbi_1.png)
-
-### 🛍️ Product View
-![Amazon Product View](amazon_pbi_2.png)
-
----
-
-## 📁 Project Structure
 
